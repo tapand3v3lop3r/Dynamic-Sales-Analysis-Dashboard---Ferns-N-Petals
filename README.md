@@ -66,7 +66,4 @@ This dashboard enables business stakeholders to:
 
 ---
 
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
 
