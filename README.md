@@ -33,13 +33,13 @@ An **interactive Excel dashboard** designed for **sales performance analysis** a
 
 ## 📸 Screenshot
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ---
 
 ## 🔽 Download the Dashboard
 
-👉 [Click here to download the Excel file](FNP_Sales_Dashboard.xlsx)
+👉 [Click here to download the Excel file](FNP_Sales_Analysis_Report.xlsx)
 
 ---
 
