@@ -62,7 +62,7 @@ This dashboard enables business stakeholders to:
 ## 🙌 Author
 
 **Tapan Padhi**  
-🔗 [LinkedIn]((https://www.linkedin.com/in/tapan-kumar-padhii-/)) | 🌐 [Portfolio](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/tapan-kumar-padhii-/) | 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ---
 
